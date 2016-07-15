@@ -1,0 +1,22 @@
+core: "7.x"
+api: 2
+projects:
+  bootstrap: ~
+  drupal: ~
+  ctools: ~
+  date: ~
+  entity: ~
+  entityreference: ~
+  features: ~
+  field_collection: ~
+  field_group: ~
+  file_entity: ~
+  icon: ~
+  link: ~
+  media: ~
+  synonyms: ~
+  views: ~
+  dspace-content:
+    type: "module"
+    download:
+      url: "git://git.qualtim.com/noahlange/devspace-content.git"
