@@ -31,7 +31,7 @@ projects:
     version: ~
   views:
     version: ~
-  dspace-content:
+  dspace_content:
     type: "module"
     download:
       type: "file"
