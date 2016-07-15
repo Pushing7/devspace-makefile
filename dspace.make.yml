@@ -1,7 +1,8 @@
 core: "7.x"
 api: 2
 projects:
-  drupal: ~
+  drupal:
+    version: ~
   bootstrap: ~
   ctools: ~
   date: ~
