@@ -20,4 +20,4 @@ projects:
   dspace-content:
     type: "module"
     download:
-      url: "http://git.qualtim.com/noahlange/devspace-content-feature/repository/archive.tar.gz?ref=master"
+      url: "git://git.qualtim.com/noahlange/devspace-content-feature.git"
