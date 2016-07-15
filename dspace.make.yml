@@ -3,20 +3,34 @@ api: '2'
 projects:
   drupal:
     version: '7.50'
-  bootstrap: ~
-  ctools: ~
-  date: ~
-  entity: ~
-  entityreference: ~
-  features: ~
-  field_collection: ~
-  field_group: ~
-  file_entity: ~
-  icon: ~
-  link: ~
-  media: ~
-  synonyms: ~
-  views: ~
+  bootstrap:
+    version: ~
+  ctools:
+    version: ~
+  date:
+    version: ~
+  entity:
+    version: ~
+  entityreference:
+    version: ~
+  features:
+    version:
+  field_collection:
+    version: ~
+  field_group:
+    version: ~
+  file_entity:
+    version: ~
+  icon:
+    version: ~
+  link:
+    version: ~
+  media:
+    version: ~
+  synonyms:
+    version: ~
+  views:
+    version: ~
   dspace-content:
     type: "module"
     download:
