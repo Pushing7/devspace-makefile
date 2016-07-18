@@ -35,4 +35,4 @@ projects:
     type: "module"
     download:
       type: "file"
-      url: "https://github.com/Pushing7/devspace-content-feature/repository/archive.tar.gz?ref=master"
+      url: "https://github.com/Pushing7/devspace-content-feature/archive/master.zip"
