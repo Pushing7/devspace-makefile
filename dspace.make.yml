@@ -3,36 +3,103 @@ api: '2'
 projects:
   drupal:
     version: '7.50'
-  bootstrap:
+  # common modules
+  admin_menu:
+    version: ~
+  admin_select:
+    version: ~
+  admin_views:
+    version: ~
+  bean:
+    version: ~
+  block_class:
+    version: ~
+  ckeditor:
+    version: ~
+  ckeditor_link:
+    version: ~
+  context:
+    version: ~
+  cpn:
     version: ~
   ctools:
     version: ~
   date:
     version: ~
+  devel:
+    version: ~
+  ds:
+    version: ~
   entity:
     version: ~
-  entityreference:
+  environment_indicator:
     version: ~
   features:
-    version:
+    version: ~
+  features_extra:
+    version: ~
   field_collection:
     version: ~
   field_group:
     version: ~
   file_entity:
     version: ~
+  filefield_paths:
+    version: ~
+  filefield_sources:
+    version: ~
+  filefield_sources_plupload:
+    version: ~
+  fluidui: #BBC: May need customization
+    version: ~
+  gtranslate:
+    version: ~
   icon:
+    version: ~
+  insert:
+    version: ~
+  jquery_update:
+    version: ~
+  libraries:
     version: ~
   link:
     version: ~
-  media:
+  markdown:
     version: ~
-  synonyms:
+  masquerade:
+    version: ~
+  menu_import:
+    version: ~
+  module_filter:
+    version: ~
+  patchinfo:
+    version: ~
+  pathauto:
+    version: ~
+  phpmailer:
+    version: ~
+  plupload:
+    version: ~
+  redirect:
+    version: ~
+  reroute_email:
+    version: ~
+  token:
+    version: ~
+  transliteration:
     version: ~
   views:
     version: ~
+  views_bulk_operations:
+    version: ~
+  webform:
+    version: ~
+  # features
   dspace_content:
     type: "module"
     download:
       type: "file"
       url: "https://github.com/Pushing7/devspace-content-feature/archive/master.zip"
+  # themes
+  bootstrap:
+    version: ~
