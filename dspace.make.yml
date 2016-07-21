@@ -70,6 +70,8 @@ projects:
     version: ~
   menu_import:
     version: ~
+  migrate:
+    version: ~
   module_filter:
     version: ~
   patchinfo:
