@@ -114,13 +114,9 @@ projects:
     version: ~
   search_api_exclude:
     version: ~
-  search_api_facetapi:
-    version: ~
   search_api_page:
     version: ~
   search_api_solr:
-    version: ~
-  search_api_views:
     version: ~
   search_api_views_empty_query:
     version: ~
