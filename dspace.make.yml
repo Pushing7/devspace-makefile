@@ -88,6 +88,8 @@ projects:
     version: ~
   migrate_d2d:
     version: ~
+  migrate:
+    version: ~
   module_filter:
     version: ~
   navbar:
