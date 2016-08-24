@@ -28,8 +28,6 @@ projects:
     version: ~
   ctools:
     version: ~
-  current_search:
-    version: ~
   date:
     version: ~
   devel:
