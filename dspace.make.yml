@@ -12,7 +12,11 @@ projects:
     version: ~
   bean:
     version: ~
+  better_exposed_filters:
+    version: ~
   block_class:
+    version: ~
+  book_explorer:
     version: ~
   ckeditor:
     version: ~
@@ -24,15 +28,27 @@ projects:
     version: ~
   ctools:
     version: ~
+  current_search:
+    version: ~
   date:
     version: ~
   devel:
     version: ~
   ds:
     version: ~
+  ds_bootstrap_layouts:
+    version: ~
   entity:
     version: ~
   environment_indicator:
+    version: ~
+  facetapi:
+    version: ~
+  facetapi_bonus:
+    version: ~
+  facetapi_pretty_paths:
+    version: ~
+  facetapi_views:
     version: ~
   features:
     version: ~
@@ -70,7 +86,13 @@ projects:
     version: ~
   menu_import:
     version: ~
+  migrate_d2d:
+    version: ~
   module_filter:
+    version: ~
+  navbar:
+    version: ~
+  navbar_extras:
     version: ~
   patchinfo:
     version: ~
@@ -84,16 +106,47 @@ projects:
     version: ~
   reroute_email:
     version: ~
+  search_api:
+    version: ~
+  search_api_autocomplete:
+    version: ~
+  search_api_exclude:
+    version: ~
+  search_api_facetapi:
+    version: ~
+  search_api_page:
+    version: ~
+  search_api_solr:
+    version: ~
+  search_api_views:
+    version: ~
+  search_api_views_empty_query:
+    version: ~
+  taxonomy_display:
+    version: ~
+  taxonomy_manager:
+    version: ~
+  taxonomy_orphanage:
+    version: ~
+  taxonomy_tools:
+    version: ~
+  term_merge:
+    version: ~
   token:
     version: ~
   transliteration:
     version: ~
   views:
     version: ~
+  views_block_area:
+    version: ~
+  views_block_filter_block:
+    version: ~
   views_bulk_operations:
     version: ~
   webform:
     version: ~
+
   # features
   dspace_content:
     type: "module"
