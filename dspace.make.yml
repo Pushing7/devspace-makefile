@@ -72,6 +72,8 @@ projects:
     version: ~
   insert:
     version: ~
+  logintoboggan:
+    version: ~
   jquery_update:
     version: ~
   libraries:
