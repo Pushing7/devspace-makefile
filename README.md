@@ -1,4 +1,4 @@
-# GPII Developerspace
+# GPII DeveloperSpace
 
 This repository contains the latest drush makefile for use in building a stand-alone instance of the GPII DeveloperSpace site. 
 
