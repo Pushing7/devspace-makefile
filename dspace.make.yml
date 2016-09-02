@@ -10,6 +10,8 @@ projects:
     version: ~
   admin_views:
     version: ~
+  backup_migrate: ~
+    version: ~
   bean:
     version: ~
   better_exposed_filters:
