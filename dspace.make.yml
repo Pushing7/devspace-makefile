@@ -10,7 +10,7 @@ projects:
     version: ~
   admin_views:
     version: ~
-  backup_migrate: ~
+  backup_migrate:
     version: ~
   bean:
     version: ~
