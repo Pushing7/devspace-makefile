@@ -20,6 +20,8 @@ projects:
     version: ~
   book_explorer:
     version: ~
+  chosen:
+    version: ~
   ckeditor:
     version: ~
   ckeditor_link:
@@ -70,6 +72,11 @@ projects:
     version: ~
   gtranslate:
     version: ~
+  google_translator:
+    type: "module"
+    download:
+      type: "git"
+      url: "https://git.drupal.org/sandbox/fxarte/1473726.git"
   icon:
     version: ~
   insert:
@@ -147,12 +154,18 @@ projects:
   webform:
     version: ~
 
+
+
+
   # features
   dspace_content:
     type: "module"
     download:
       type: "file"
       url: "https://github.com/Pushing7/devspace-content-feature/archive/master.zip"
+
   # themes
   bootstrap:
     version: ~
+
+  #libraries @@
